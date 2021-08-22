@@ -1,0 +1,56 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.body{
+    background-image: url(7.jpg);
+    background-size: cover;
+    text-decoration: none;
+
+}
+.login-box{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    background-color:transparent;
+    width: 40%;
+    height: 50%;
+    margin: 0 auto;
+    padding-top: 4%;
+}
+.textbox{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    background-color: transparent;
+    font-weight: bold;
+    padding: 15px;
+
+}
+.textbox label{
+    float: left;
+}
+.textbox input{
+    width: 80%;
+    float: right;
+    background-color: transparent;
+    height: 30px;
+    color: white;
+    
+}
+.btn
+{
+    color:white;
+    padding-top: 10px;
+}
+.block{
+    background-color:white;
+}
+
+.block2{
+    float: right;
+    width:80%;
+    text-align:left;
+    margin-top:20px;
+    font-weight:bold;
+}
